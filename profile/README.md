@@ -8,6 +8,7 @@ Following are the links that we will refer in the training
 | AWS Account Signup Video | https://www.youtube.com/watch?v=JFwAS_8BZvM |  |
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
+| Lab Session | https://us06web.zoom.us/j/84551085670?pwd=cuFbjprKGa6nupmY3nBRFxUgZbcSW6.1 | Timings: 1pm to 9pm IST |
 
 ### Linux Username - ec2-user
 ### Linux Password - DevOps321
