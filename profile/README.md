@@ -1,5 +1,7 @@
 Following are the links that we will refer in the training 
 
+## *Free sessions completed, If you wish to continue then reach to organizer*
+
 | __  | Link | Comments |
 | ------------- | ------------- | ------------- |
 | Syllabus | https://docs.google.com/document/d/1fxdXNqmxY02YNu558Tt5eQ0kQqj8EatSIIRpuDStFqU/edit?tab=t.0 | |
