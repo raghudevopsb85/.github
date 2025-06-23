@@ -10,6 +10,9 @@ Following are the links that we will refer in the training
 | AWS Account Signup Link  | https://portal.aws.amazon.com/billing/signup#/start/email |  |
 | AWS Login Page  | https://us-east-1.console.aws.amazon.com/console/home?region=us-east-1 |  |
 
+<img width="1164" alt="image" src="https://github.com/user-attachments/assets/c06bf5b3-c67a-44c0-94f4-50df5653b7f3" />
+
+
 ### Linux Username - ec2-user
 ### Linux Password - DevOps321
 
